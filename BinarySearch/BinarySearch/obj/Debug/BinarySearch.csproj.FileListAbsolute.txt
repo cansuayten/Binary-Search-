@@ -1,0 +1,9 @@
+C:\Users\Cansu\source\repos\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Cansu\source\repos\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Cansu\source\repos\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Cansu\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\Users\Cansu\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.Form1.resources
+C:\Users\Cansu\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.Properties.Resources.resources
+C:\Users\Cansu\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.GenerateResource.cache
+C:\Users\Cansu\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Cansu\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
